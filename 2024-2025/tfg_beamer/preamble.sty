@@ -1,0 +1,33 @@
+\usepackage{subcaption}
+\usepackage[english, spanish]{babel} 
+
+\title{Resultados sobre convergencia de series de Fourier}
+\subtitle{Trabajo de Fin de Grado}
+\author{David López del Pino}
+\institute{Universidad de Málaga}
+\date{1 de julio de 2025}
+
+\usetheme{Warsaw}
+\setbeamertemplate{page number in head/foot}[totalframenumber]
+\setbeamerfont{frametitle}{size=\huge}
+
+\newcommand{\R}{\mathbb R}
+\newcommand{\N}{\mathbb N}
+\newcommand{\Z}{\mathbb Z}
+\newcommand{\Q}{\mathbb Q}
+\newcommand{\C}{\mathbb C}
+\newcommand{\I}{\mathbb I}
+\newcommand{\T}{\mathbb T}
+\newcommand{\K}{\mathbb K}
+\newcommand{\angles}[1]{\langle #1 \rangle}
+
+\newcommand{\integral}[4][t]{\int_{#2}^{#3} #4 \, d#1}
+\newcommand{\sgn}{\textup{sgn}}
+\newcommand{\real}{\textup{Re}}
+\newcommand{\imag}{\textup{Im}}
+
+\DeclareMathOperator*{\supes}{sup\,es\,} % supremo esencial
+\newcommand{\nconv}{\xrightarrow{\raisebox{-0.25ex}[0ex][0ex]{\phantom{.}\scriptsize$n \to \infty$\phantom{.}}}}
+\newcommand{\Nconv}{\xrightarrow{\raisebox{-0.25ex}[0ex][0ex]{\phantom{.}\scriptsize$N \to \infty$\phantom{.}}}}
+\newcommand{\kconv}{\xrightarrow{\raisebox{-0.25ex}[0ex][0ex]{\phantom{.}\scriptsize$k \to \infty$\phantom{.}}}}
+\newcommand{\iconv}{\xrightarrow{\raisebox{-0.25ex}[0ex][0ex]{\phantom{.}\scriptsize$i \to \infty$\phantom{.}}}}

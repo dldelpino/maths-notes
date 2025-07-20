@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}\relax 
+\beamer@sectionintoc {1}{Preliminares}{5}{0}{1}
+\beamer@subsectionintoc {1}{1}{Espacios $L^p$}{5}{0}{1}
+\beamer@subsectionintoc {1}{2}{Series de Fourier}{8}{0}{1}
+\beamer@subsectionintoc {1}{3}{Resultados de Análisis Funcional}{15}{0}{1}
+\beamer@sectionintoc {2}{Convergencia puntual}{17}{0}{2}
+\beamer@subsectionintoc {2}{1}{Una función continua cuya serie de Fourier diverge en un punto}{17}{0}{2}
+\beamer@subsectionintoc {2}{2}{Una función de $L^1$ cuya serie de Fourier diverge en todo punto}{19}{0}{2}
+\beamer@subsectionintoc {2}{3}{Fenómeno de Gibbs}{27}{0}{2}
+\beamer@sectionintoc {3}{Convergencia en $L^p$}{33}{0}{3}
+\beamer@subsectionintoc {3}{1}{Convergencia en $L^1$}{35}{0}{3}
+\beamer@subsectionintoc {3}{2}{El teorema de interpolación de Riesz-Thorin}{37}{0}{3}
+\beamer@subsectionintoc {3}{3}{Convergencia en $L^p$ para $1<p<\infty $}{38}{0}{3}

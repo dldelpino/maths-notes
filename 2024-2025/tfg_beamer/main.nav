@@ -1,0 +1,72 @@
+\headcommand {\slideentry {0}{0}{1}{1/1}{}{0}}
+\headcommand {\beamer@framepages {1}{1}}
+\headcommand {\slideentry {0}{0}{2}{2/4}{}{0}}
+\headcommand {\beamer@framepages {2}{4}}
+\headcommand {\beamer@sectionpages {1}{4}}
+\headcommand {\beamer@subsectionpages {1}{4}}
+\headcommand {\sectionentry {1}{Preliminares}{5}{Preliminares}{0}}
+\headcommand {\beamer@subsectionpages {5}{4}}
+\headcommand {\beamer@subsectionentry {0}{1}{1}{5}{Espacios $L^p$}}
+\headcommand {\slideentry {1}{1}{1}{5/7}{Espacios $L^p$}{0}}
+\headcommand {\beamer@framepages {5}{7}}
+\headcommand {\beamer@subsectionpages {5}{7}}
+\headcommand {\beamer@subsectionentry {0}{1}{2}{8}{Series de Fourier}}
+\headcommand {\slideentry {1}{2}{1}{8/10}{Series de Fourier}{0}}
+\headcommand {\beamer@framepages {8}{10}}
+\headcommand {\slideentry {1}{2}{2}{11/13}{Series de Fourier}{0}}
+\headcommand {\beamer@framepages {11}{13}}
+\headcommand {\slideentry {1}{2}{3}{14/14}{Series de Fourier}{0}}
+\headcommand {\beamer@framepages {14}{14}}
+\headcommand {\beamer@subsectionpages {8}{14}}
+\headcommand {\beamer@subsectionentry {0}{1}{3}{15}{Resultados de Análisis Funcional}}
+\headcommand {\slideentry {1}{3}{1}{15/16}{Resultados de Análisis Funcional}{0}}
+\headcommand {\beamer@framepages {15}{16}}
+\headcommand {\beamer@sectionpages {5}{16}}
+\headcommand {\beamer@subsectionpages {15}{16}}
+\headcommand {\sectionentry {2}{Convergencia puntual}{17}{Convergencia puntual}{0}}
+\headcommand {\beamer@subsectionpages {17}{16}}
+\headcommand {\beamer@subsectionentry {0}{2}{1}{17}{Una función continua cuya serie de Fourier diverge en un punto}}
+\headcommand {\slideentry {2}{1}{1}{17/18}{Una función continua cuya serie de Fourier diverge en un punto}{0}}
+\headcommand {\beamer@framepages {17}{18}}
+\headcommand {\beamer@subsectionpages {17}{18}}
+\headcommand {\beamer@subsectionentry {0}{2}{2}{19}{Una función de $L^1$ cuya serie de Fourier diverge en todo punto}}
+\headcommand {\slideentry {2}{2}{1}{19/20}{Una función de $L^1$ cuya serie de Fourier diverge en todo punto}{0}}
+\headcommand {\beamer@framepages {19}{20}}
+\headcommand {\slideentry {2}{2}{2}{21/23}{Una función de $L^1$ cuya serie de Fourier diverge en todo punto}{0}}
+\headcommand {\beamer@framepages {21}{23}}
+\headcommand {\slideentry {2}{2}{3}{24/25}{Una función de $L^1$ cuya serie de Fourier diverge en todo punto}{0}}
+\headcommand {\beamer@framepages {24}{25}}
+\headcommand {\slideentry {2}{2}{4}{26/26}{Una función de $L^1$ cuya serie de Fourier diverge en todo punto}{0}}
+\headcommand {\beamer@framepages {26}{26}}
+\headcommand {\beamer@subsectionpages {19}{26}}
+\headcommand {\beamer@subsectionentry {0}{2}{3}{27}{Fenómeno de Gibbs}}
+\headcommand {\slideentry {2}{3}{1}{27/29}{Fenómeno de Gibbs}{0}}
+\headcommand {\beamer@framepages {27}{29}}
+\headcommand {\slideentry {2}{3}{2}{30/30}{Fenómeno de Gibbs}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\slideentry {2}{3}{3}{31/31}{Fenómeno de Gibbs}{0}}
+\headcommand {\beamer@framepages {31}{31}}
+\headcommand {\slideentry {2}{3}{4}{32/32}{Fenómeno de Gibbs}{0}}
+\headcommand {\beamer@framepages {32}{32}}
+\headcommand {\beamer@sectionpages {17}{32}}
+\headcommand {\beamer@subsectionpages {27}{32}}
+\headcommand {\sectionentry {3}{Convergencia en $L^p$}{33}{Convergencia en $L^p$}{0}}
+\headcommand {\slideentry {3}{0}{1}{33/34}{}{0}}
+\headcommand {\beamer@framepages {33}{34}}
+\headcommand {\beamer@subsectionpages {33}{34}}
+\headcommand {\beamer@subsectionentry {0}{3}{1}{35}{Convergencia en $L^1$}}
+\headcommand {\slideentry {3}{1}{1}{35/36}{Convergencia en $L^1$}{0}}
+\headcommand {\beamer@framepages {35}{36}}
+\headcommand {\beamer@subsectionpages {35}{36}}
+\headcommand {\beamer@subsectionentry {0}{3}{2}{37}{El teorema de interpolación de Riesz-Thorin}}
+\headcommand {\slideentry {3}{2}{1}{37/37}{El teorema de interpolación de Riesz-Thorin}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\beamer@subsectionpages {37}{37}}
+\headcommand {\beamer@subsectionentry {0}{3}{3}{38}{Convergencia en $L^p$ para $1<p<\infty $}}
+\headcommand {\slideentry {3}{3}{1}{38/41}{Convergencia en $L^p$ para $1<p<\infty $}{0}}
+\headcommand {\beamer@framepages {38}{41}}
+\headcommand {\beamer@partpages {1}{41}}
+\headcommand {\beamer@subsectionpages {38}{41}}
+\headcommand {\beamer@sectionpages {33}{41}}
+\headcommand {\beamer@documentpages {41}}
+\headcommand {\gdef \inserttotalframenumber {20}}
