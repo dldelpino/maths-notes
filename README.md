@@ -1,7 +1,5 @@
 # Maths Notes
 
-Prueba
-
 This is a collection of every LaTeX project I have made during the Bachelor of Mathematics at the University of Málaga. The most elaborated projects are the following:
 
 - [Trabajo de Fin de Grado](https://github.com/dldelpino/latex/blob/main/2024-2025/tfg/main.pdf)
