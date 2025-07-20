@@ -1,6 +1,6 @@
 # Maths Notes
 
-This is a collection of every LaTeX project I have made during the mathematics degree at university. The most elaborated projects are the following:
+This is a collection of every LaTeX project I have made during the Bachelor of Mathematics at the University of Málaga. The most elaborated projects are the following:
 
 - [Trabajo de Fin de Grado](https://github.com/dldelpino/latex/blob/main/2024-2025/tfg/main.pdf)
 - [Apuntes de Análisis Real](https://github.com/dldelpino/latex/blob/main/2024-2025/ar_apuntes/main.pdf)
